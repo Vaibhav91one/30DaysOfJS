@@ -19,3 +19,5 @@ This is just simple way to return increment value. Lets see what happens step by
 4. Now, if we call f() we will see it return n and will n++. 
 5. Here, when we n++ it will return n it will increment after the line has executed.
 */
+
+// Day 1

@@ -16,3 +16,5 @@ This function have object with two keys which are toBe and notTobe whose value a
 2. expect call the key notToBe whose value is a function which return if val !== val2 else throwsError "Equal"
 3. ThrowError function throws an error which takes arguement as string to show when error Occurs. 
 */
+
+// Day 1

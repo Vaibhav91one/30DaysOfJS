@@ -16,3 +16,5 @@ counter.decrement(); // 4
 // 1. we increment using ++init as it will return the value after increment not before increment such as init++
 // 2. same with decrement 
 // 3 and we store the original value as let which cannot be re declared and is of block scoped not functional scope such as var  
+
+// Day 1

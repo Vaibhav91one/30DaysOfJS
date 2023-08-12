@@ -17,3 +17,5 @@ This is jut a simple function in function concept. Lets see what happens step by
 3. Now, f() have a function call in it.
 4. Now, if we call f() we will see it return Hello world. We can see the output if we console.log(f())
 */
+
+// Day 1
