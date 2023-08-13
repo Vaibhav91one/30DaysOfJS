@@ -15,3 +15,11 @@
 **Thoughts:** Got stuck on the JS problem. Just because I misunderstood the question.. 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 3: August 13, 2023 
+
+**Today's Progress**: Worked on transformation problems utilizing filter and reduce
+
+**Thoughts:** Got stuck because of not understanding the question completly (missed a few point). 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
