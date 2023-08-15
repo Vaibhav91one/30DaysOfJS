@@ -23,3 +23,19 @@
 **Thoughts:** Got stuck because of not understanding the question completly (missed a few point). 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 4: August 14, 2023 
+
+**Today's Progress**: Worked on one problem of function composition
+
+**Thoughts:** Got little to few time today. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 5: August 15, 2023 
+
+**Today's Progress**: Worked on two problems which are returning argument lenght and allowing one function call.
+
+**Thoughts:** Got little to few time today as well. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
