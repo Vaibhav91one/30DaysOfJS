@@ -39,3 +39,11 @@
 **Thoughts:** Got little to few time today as well. 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 6  & 7: August 16 - 17, 2023 
+
+**Today's Progress**: .
+
+**Thoughts:** on 1st day didn't get much time. and on second day stuck on memoization implementation. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
