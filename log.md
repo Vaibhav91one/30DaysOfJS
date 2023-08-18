@@ -47,3 +47,11 @@
 **Thoughts:** on 1st day didn't get much time. and on second day stuck on memoization implementation. 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 8: August 18, 2023 
+
+**Today's Progress**: Memoization done.
+
+**Thoughts:** Memoization Understood. Easy if you understand the solution. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
