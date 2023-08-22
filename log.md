@@ -55,3 +55,18 @@
 **Thoughts:** Memoization Understood. Easy if you understand the solution. 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 9: August 19, 2023 
+
+**Today's Progress**: Learnt about Async, Promises, Settimeout.
+
+**Thoughts:** Got the hang of these. Easy if you have a basic understanding of the concept. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 10 - 13: August 21 - 22, 2023 
+
+**Today's Progress**: Took a break for one day. Later did some timeout and timeInterval Problems, worked on some promise related problems.
+**Thoughts:** Got the hang of these. Easy if you have a basic understanding of the concept. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
